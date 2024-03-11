@@ -1,1 +1,1 @@
-## This is the demo repository for Learning git and gith
+## This is the demo repository for Learning git and GitHub 
